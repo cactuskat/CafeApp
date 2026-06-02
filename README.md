@@ -13,3 +13,6 @@
 - Open 'cafeapp' folder on VS code
 - Select 'Start Debugging'
 - Select simulator of choice (Was tested with Google Chrome)
+
+### Loom Link
+https://www.loom.com/share/c759fef819b74458ac8ae03a39a38470
